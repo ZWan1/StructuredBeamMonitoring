@@ -10,7 +10,7 @@ Longitudinally scanning and monitoring structured beams - MATLAB Codes
 The following codes are provided in the spirit of reproducible research. We make our code available to the public for academic purposes.
 
 ------- Contact:
-Questions can be addressed to Zhenyu Wan (z.wan.1@research.gla.ac.uk) and Ziyi Tang (1270989697@qq.com).
+Questions can be addressed to Zhenyu Wan (zwan3@outlook.com) and Ziyi Tang (1270989697@qq.com).
 
 ----------------------------------------------
 Description of files in this folder
